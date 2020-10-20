@@ -1,5 +1,7 @@
 # 20-10-20 Development Environment Primary
 
+[My Fav Podcast](./primary.md)
+
 ### Set Up
 - copy the assignment git url
 - clone the assignment in the `html-css-basics` directory
