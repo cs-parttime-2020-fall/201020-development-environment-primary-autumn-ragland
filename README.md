@@ -14,7 +14,13 @@
 - all images must be linked from the repository (no image addresses) and in a sub directory called `img`
 - push changes after completing each section with meaningful commit messages
 - add a link to the markdown file you created in the read me
- 
+
+### Push File Changes
+- `git status` : check if file changes have been made
+- `git add -A` : stage changes for commit
+- `git commit -m "meaningful message"` : commit changes with appropriate message
+- `git push` : reflect local changes remotely 
+
 ### Resources
 [Concept Documentation Info on Git](https://github.com/cs-parttime-2020-fall/part-time-program-syllabus/blob/master/overview.md#version-control) 
 
